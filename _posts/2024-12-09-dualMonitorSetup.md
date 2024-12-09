@@ -23,7 +23,7 @@ Two screens means double the work done, right? Wrong. You think, you can write y
 
 For computers this process usually works out fine, as their work performance isn't increased by focus or concentration. Saying the same holds true for humans, however, would be lying to oneself.
 
-In actuality switching tasks costs us valuable time, where we need to again think our way into a problem, again building up our concentration. Switching tasks - like happens while "multi-tasking" - breaks our focus. Studies show that switching tasks usually costs us multiplr minutes, before we again reach the same level of focus that we had before.
+In actuality switching tasks costs us valuable time, where we need to again think our way into a problem, again building up our concentration. Switching tasks - like happens while "multi-tasking" - breaks our focus. Studies show that switching tasks usually costs us multiple minutes, before we again reach the same level of focus that we had before.
 
 One might think that they get more done, when multitasking, but this percecption is an illusion, based on the circumstance that the part of your brain responsible for perceiving how much you get done is too stressed when multitasking to deliver accurate results to your conscience.
 
