@@ -1,11 +1,8 @@
 ---
 layout: post #Do not change.
-title:  "Hi."
+title:  "Digital Accountability Buddy"
 date:   2025-02-03 10:05:42 +0200
 ---
-
-# Digital Accountability Buddy
-
 
 Are you aware of the *Gym Buddy Trend*? It is often recommended, when wanting to start going to the gym regularly, to find someone, a close friend usually, who does so aswell. <!--more-->So as to have someone who holds you accountable and just by their presence reminds you of going there even on days, you would have on your own decided to stay at home, because you didn't feel like it. This, of course, also works in reverse, as your presence makes them more likely to pay the gym a visit.
 
