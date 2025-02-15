@@ -1,6 +1,6 @@
 ---
 layout: post #Do not change.
-title:  "Having a logical concersation (literally)"
+title:  "Having a logical conversation (literally)"
 date:   2025-02-10 10:05:42 +0200
 ---
 Some notes on *boolean algebra* and our language. <!--more-->
