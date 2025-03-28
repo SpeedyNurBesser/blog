@@ -18,8 +18,8 @@ Lately, I was talking to someone, who I didn't know much about, but as they had 
 Personally, I like to think of the outcome of conversations about a topic based on the familiarity with the topic both parties bring to the table. 
 
 For example, if both parties are very familiar with the topic at hand, the type of conversation you'll generally get will either be small talk on a very common topic like the weather which both parties know about, or you'll get a very good discussion on high level, if two "experts" in a field meet.
- 
-![[assets/img/familiartySlider1.png]
+
+ {% fullwidth "assets/img/familiartySlider1.png" "" %}
 
 When talking to said person, at some point in the conversation I got reminded of something, and started teaching them something, they didn't know a thing about. (sidenote: Specifically, I told them the story of how the U.S. military at one point lost 4 hydrogen bombs right off the coast of Spain. I also talked about the function of said bombs.)
 
@@ -29,7 +29,7 @@ As naive, as I was, I felt like I had just told them something personal, when I 
 
 Very personal conversations arise, when party A is very familiar with the topic at hand, because they are talking about theirselves, and party B is unfamiliar with the topic, as they know what party A thinks, which is usual, as one never knows what other people think.
 
-![[assets/img/familiaritySlider2.png]
+ {% fullwidth "assets/img/familiartySlider2.png" "" %}
 
 With the same arrangement of familiarities, when party A is very familiar and party B unfamiliar, the conversation can, however, also become an introductiory lesson to a topic.
 
