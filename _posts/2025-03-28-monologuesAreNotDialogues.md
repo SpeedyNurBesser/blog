@@ -1,7 +1,7 @@
 ---
 layout: post #Do not change.
 title:  "Monologues aren't dialogues"
-date:   2025-02-28 10:05:42 +0200
+date:   2025-03-28 10:05:42 +0200
 ---
 
 I was an eternally curious child. <!--more--> I was always keen on learning. Or at least, that's what I to this day tell myself. Learning, getting to know more about the world is something I like, something I would not want to live without.
