@@ -5,19 +5,16 @@ date:   2025-04-28 10:05:42 +0200
 ---
 
 _When does a comet become a meteor?_
-
 _When does a candle become a blaze?_
-
 _When does a man become a monster?_
 
 
 
 _When does a ripple become a tidal wave?_
-
 _When does the reason become the blame?_
-
 _When does a man become a monster?_
 
+<!--more-->
 _Just a Man_, Troy Saga, EPIC: The Musical
 
 
