@@ -13,5 +13,5 @@ page:
   template: _page.txt
   extension: md
 editor: gvim
-plugins:
+gems:
     - jekyll-seo-tag
