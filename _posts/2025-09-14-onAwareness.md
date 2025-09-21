@@ -4,9 +4,7 @@ title: "On Awareness"
 date: 2025-09-14 10:05:42 +0200
 ---
 
-# On Awareness
-
-I found, that it's a common misconception that high awareness or *focus*, if you will, are something one does. But I have come here to argue, that it is much rather something one allows to happen.
+I found, that it's a common misconception that high awareness or *focus*, if you will, are something one does. But I have come here to argue, that it is much rather something one allows to happen. <!--more-->
 
 When you try to focus on something, be it something on the outside, like a text you're reading or a person you're listening to, or something happening inside your head like coming up with ideas or thinking about one's own mental state, your focus doesn't increase by you thinking about focusing.
 
